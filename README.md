@@ -1,5 +1,5 @@
 # Program-neural-networks-with-TensorFlow
-Repositorio con cuaderno en Google Colab de Redes neuronales con TensorFlow
+Repositorio con cuadernos en Google Colab de Redes neuronales con TensorFlow by Google
 
 ## Acceso a los cuadernos
 
