@@ -17,6 +17,6 @@ Todos los cuadernos tienen explicacion sobre las lineas de codigo que se estan e
 
 3. ### Handwritten_Digit_recognition_with_CNNs
 
-*Haciendo uso de la misma base de datos MSINT se realizo una red neuronal convolucional (CNN) que pueda predecir los dígitos del 0 - 9.*
+*Haciendo uso de la misma base de datos MSINT se realizo una red neuronal convolucional (CNN) que puede predecir los dígitos del 0 - 9 por medio de las imagenes en la misma base de datos.*
 
 [Reconocimiento de digitos escritos a mano](https://github.com/JorgeHdzRiv/Program-neural-networks-with-TensorFlow/blob/main/Handwritten_Digit_recognition_with_CNNs_Fi.ipynb)
